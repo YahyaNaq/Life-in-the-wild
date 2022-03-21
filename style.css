@@ -1,9 +1,14 @@
+body {
+	background-image: linear-gradient(to right, rgb(18, 107, 0), rgb(179, 164, 0));
+}
+
 h1{
 	font-family: chiller;
 	font-weight: bolder;
 	text-align: center;
 	font-size: 4.5em;
 	color: brown;
+	text-shadow: 2px 2px 12px #ffffff;
 	margin-right: 15%;
 	margin-left: 15%; 
 	box-shadow: 0px 2px 2px #004d00;
